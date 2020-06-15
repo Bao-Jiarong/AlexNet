@@ -7,19 +7,22 @@
 </center>
 
 Figure 1: image is taken from [source](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_32)   
-
+<p>   
+</p>
 <center>   
 <img src="img/2.png" width="700" height="300"/>   
 </center>
 
 Figure 2: image is taken from [source](https://www.mdpi.com/2072-4292/9/8/848/htm)   
-
+<p>   
+</p>
 ### Training on MNIST
 <p></p>
 <center>
 <img src="img/mnist.png" width="400" height="350"/>
 </center>
-
+<p>   
+</p>
 ### Requirement
 ```
 python==3.7.0
